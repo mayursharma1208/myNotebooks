@@ -1,0 +1,24 @@
+ArcGIS
+QGIS
+Postgres/Postgis
+Google Earth
+Geoserver
+eCognition
+Aerialod
+
+=== Development ===
+Python
+R
+Java
+Notepad ++
+Visual Studio Code
+git
+node
+xampp
+
+=== Others ===
+idm
+potPlayer
+Telegram
+winRar
+
